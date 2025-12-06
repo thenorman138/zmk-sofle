@@ -83,7 +83,7 @@
 &trans      &kp INSERT    &kp PRINTSCREEN  &kp K_APPLICATION  &trans        &trans          &mmv MOVE_DOWN   &kp PG_UP  &trans          &kp UP_ARROW    &trans     &trans  &trans
 &trans      &trans        &trans           &trans             &trans        &kp CAPSLOCK    &mmv MOVE_LEFT   &kp PG_DN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans
 &trans      &kp K_UNDO    &kp K_CUT        &kp K_COPY         &kp K_PASTE   &trans          &mmv MOVE_RIGHT  &trans     &trans          &trans          &trans     &trans  &trans
-&trans      &trans        &trans           &trans             &trans        &trans          &mkp LCLK        &trans     &trans          &trans          &trans     &trans
+&trans      &trans        &trans           &trans             &mo 3         &trans          &mkp LCLK        &trans     &trans          &trans          &trans     &trans
             >;
 
             display-name = "layer2";
